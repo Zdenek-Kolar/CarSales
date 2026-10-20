@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carsales>
+    <carsale>
+        <name>Škoda Oktávia</name>
+        <date>2010-12-02</date>
+        <price>500000</price>
+        <tax>20</tax>
+    </carsale>
+    <carsale>
+        <name>Škoda Felicia</name>
+        <date>2010-12-03</date>
+        <price>210000</price>
+        <tax>20</tax>
+    </carsale>
+    <carsale>
+        <name>Škoda Fabia</name>
+        <date>2010-12-04</date>
+        <price>350000</price>
+        <tax>20</tax>
+    </carsale>
+    <carsale>
+        <name>Škoda Oktávia</name>
+        <date>2010-12-04</date>
+        <price>500000</price>
+        <tax>20</tax>
+    </carsale>
+    <carsale>
+        <name>Škoda Oktávia</name>
+        <date>2010-12-05</date>
+        <price>500000</price>
+        <tax>20</tax>
+    </carsale>
+    <carsale>
+        <name>Škoda Fabia</name>
+        <date>2010-12-05</date>
+        <price>350000</price>
+        <tax>20</tax>
+    </carsale>
+    <carsale>
+        <name>Škoda Fabia</name>
+        <date>2010-12-06</date>
+        <price>350000</price>
+        <tax>20</tax>
+    </carsale>
+    <carsale>
+        <name>Škoda Forman</name>
+        <date>2000-12-04</date>
+        <price>100000</price>
+        <tax>19</tax>
+    </carsale>
+    <carsale>
+        <name>Škoda Favorit</name>
+        <date>2000-12-05</date>
+        <price>80000</price>
+        <tax>19</tax>
+    </carsale>
+    <carsale>
+        <name>Škoda Forman</name>
+        <date>2000-12-06</date>
+        <price>100000</price>
+        <tax>19</tax>
+    </carsale>
+    <carsale>
+        <name>Škoda Felicia</name>
+        <date>2000-12-03</date>
+        <price>210000</price>
+        <tax>19</tax>
+    </carsale>
+    <carsale>
+        <name>Škoda Felicia</name>
+        <date>2000-12-02</date>
+        <price>210000</price>
+        <tax>19</tax>
+    </carsale>
+    <carsale>
+        <name>Škoda Oktávia</name>
+        <date>2010-12-07</date>
+        <price>500000</price>
+        <tax>20</tax>
+    </carsale>
+</carsales>
